@@ -115,7 +115,7 @@ const TopPlayer = ({players}) => {
                 </div>
               </div>
               <h2>Stats per 90 minutes</h2>
-              <div className='dt mt4 f4 '>
+              <div className='dt mt4 f3 '>
                 <div className='dtc pa2 br bl'>
                   Goals:{' '}
                   {Math.round(
@@ -138,7 +138,7 @@ const TopPlayer = ({players}) => {
                 </div>
               </div>
               <h2>Dribbling</h2>
-              <div className='dt mt4 f4 '>
+              <div className='dt mt4 f3 '>
                 <div className='dtc pa2 br bl'>
                   Attempts: {cleanedupyear.dribbles.attempts}
                 </div>
