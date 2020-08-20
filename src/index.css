@@ -1,0 +1,8 @@
+img {
+  height: 40px;
+  padding: 10px;
+}
+
+.main-image {
+  background-image: url('./images/Background-image.png');
+}
